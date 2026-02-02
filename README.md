@@ -1,3 +1,4 @@
+<div align="center">
 # 미리보기
 
 ![Hello, IT'S ME YUNSEOK](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20IT'S%20ME%20YUNSEOK&animation=fadeIn&fontColor=e3e3e3&fontSize=50)
@@ -26,3 +27,4 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasegqw&bg_color=60,6d4646,940000&title_color=ffffff&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasegqw&layout=compact&bg_color=60,6d4646,940000&title_color=ffffff&text_color=ffffff)
+</div>
