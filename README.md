@@ -32,7 +32,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasegqw&bg_color=60,6d4646,940000&title_color=ffffff&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasegqw&layout=compact&bg_color=60,6d4646,940000&title_color=ffffff&text_color=ffffff)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=90&height=200&fontSize=60&fontColor=ffffff" style="transform: rotate(180deg);">
+
 </div>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=90&height=200&fontSize=60&fontColor=ffffff)
