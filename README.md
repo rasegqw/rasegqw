@@ -1,11 +1,14 @@
 <div align="center">
 
-# 미리보기
-
 ![Hello, IT'S ME YUNSEOK](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20IT'S%20ME%20YUNSEOK&animation=fadeIn&fontColor=e3e3e3&fontSize=50)
 
 ## 안녕하세요.
 2025년부터 본격적으로 개발을 시작한 김윤석입니다.
+
+## 🧑‍💻 이력 사항 🧑‍💻
+- 중앙대학교 물리학과 졸업 (19.03 ~ 25.02)
+- 크래프톤 정글 8기 수료 (25.03 ~ 25.07)
+- SSAFY 15기 진행 중 (26.01 ~ )
 
 
 ## 🛠️ Tech Stacks 🛠️
