@@ -5,34 +5,42 @@
 ![Hello, IT'S ME YUNSEOK](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20IT'S%20ME%20YUNSEOK&animation=fadeIn&fontColor=e3e3e3&fontSize=50)
 
 ## 안녕하세요.
-ㅇㅇㅇ
+2025년부터 본격적으로 개발을 시작한 김윤석입니다.
+
 
 ## 🛠️ Tech Stacks 🛠️
 
 [![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
-[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com)
+<br/>
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+<br/>
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br/>
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
+
 
 ## 🙇‍♂️ Studying 🙇‍♂️
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
+[![Spring](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
+[![SpringBoot](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
+[![Kafka](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
+[![Redis](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
 
 ## 🧑‍💻 Contact 🧑‍💻 
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://naver.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@yunsuk224/posts)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/sseeookk98)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:yunsuk224@gmail.com)
 
 ## 🏅 Stats 🏅
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasegqw&bg_color=60,6d4646,940000&title_color=ffffff&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasegqw&layout=compact&bg_color=60,6d4646,940000&title_color=ffffff&text_color=ffffff)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontAlign=50&fontAlignY=30&descAlign=50&descAlignY=90&height=200&fontSize=60&fontColor=ffffff" style="transform: rotate(180deg);">
 
 </div>
