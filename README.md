@@ -6,9 +6,9 @@
 2025년부터 본격적으로 개발을 시작한 김윤석입니다.
 
 ## 🧑‍💻 이력 사항 🧑‍💻
-- 중앙대학교 물리학과 졸업 (19.03 ~ 25.02)
-- 크래프톤 정글 8기 수료 (25.03 ~ 25.07)
-- SSAFY 15기 진행 중 (26.01 ~ )
+💻 중앙대학교 물리학과 졸업 (19.03 ~ 25.02) 
+💻 크래프톤 정글 8기 수료 (25.03 ~ 25.07)
+💻 SSAFY 15기 진행 중 (26.01 ~ )
 
 
 ## 🛠️ Tech Stacks 🛠️
@@ -29,10 +29,11 @@
 ## 🙇‍♂️ Studying 🙇‍♂️
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
-[![Spring](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
-[![SpringBoot](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
-[![Kafka](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
-[![Redis](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+[![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+<br/>
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
 ## 🧑‍💻 Contact 🧑‍💻 
 
