@@ -29,7 +29,6 @@
 
 ## 🙇‍♂️ Studying 🙇‍♂️
 
-<br/>
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
 
